@@ -26,7 +26,7 @@
   "homepage": "https://github.com/dydxprotocol/starkex-lib#readme",
   "dependencies": {
     "@types/big.js": "6.0.0",
-    "@types/elliptic": "^6.4.12",
+    "@types/elliptic": "^6.4.14",
     "big.js": "6.0.3",
     "bip39": "^3.0.3",
     "ethereum-cryptography": "^0.1.3",
